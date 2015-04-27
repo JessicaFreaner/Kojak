@@ -9,3 +9,9 @@ TO accomplish the task, I harvested and combined data (MTA turnstile, Station Ge
 Set up remote MySQL server on [Digital Ocean](https://www.digitalocean.com/ "Digital Ocean") allowing me to perform hours long SQL joins on the cloud while sleeping [SQL setup commands in SQL setup folder]. Mapped subway stations and property values to neighborhood polygons. Adjusted property values for inflation. Performed extensive data cleaning, filtering, and aggregation to create exploratory D3 interactive visualization [d3 folder contains html, images, and final jsons]. 
 
 Easily consumable presentation of project uploaded as PDF in Presentation Folder.
+
+##Other Metis Projects:
+[Benson](http://jessicafreaner.github.io/Benson/ "Exploring MTA Data")
+[Luther](http://jessicafreaner.github.io/Luther/ "Exploring Movie Data")
+[McNulty](http://jessicafreaner.github.io/McNulty/ "Exploring Heart Health Data")
+[Fletcher](http://jessicafreaner.github.io/Fletcher/ "Exploring Data with NLP")
