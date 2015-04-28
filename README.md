@@ -10,8 +10,13 @@ Set up remote MySQL server on [Digital Ocean](https://www.digitalocean.com/ "Dig
 
 Easily consumable presentation of project uploaded as PDF in Presentation Folder.
 
+![ThisIsMetis](https://cloud.githubusercontent.com/assets/9892419/7356548/e1a3b3ac-ecf6-11e4-8fb6-be39f563742e.jpg) 
 ##Other Metis Projects:
-[Benson](http://jessicafreaner.github.io/Benson/ "Exploring MTA Data")
-[Luther](http://jessicafreaner.github.io/Luther/ "Exploring Movie Data")
-[McNulty](http://jessicafreaner.github.io/McNulty/ "Exploring Heart Health Data")
-[Fletcher](http://jessicafreaner.github.io/Fletcher/ "Exploring Data with NLP")
+
+[Benson](http://jessicafreaner.github.io/Benson/ "Exploring MTA Data") - Exploring MTA Data
+
+[Luther](http://jessicafreaner.github.io/Luther/ "Exploring Movie Data") - Exploring Movie Data
+
+[McNulty](http://jessicafreaner.github.io/McNulty/ "Exploring Heart Health Data") - Exploring Heart Health Data
+
+[Fletcher](http://jessicafreaner.github.io/Fletcher/ "Exploring Data with NLP") - Exploring Data with NLP
