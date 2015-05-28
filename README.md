@@ -2,11 +2,15 @@
 
 ![NYC](https://cloud.githubusercontent.com/assets/9892419/7870924/741a68ae-055a-11e5-8a93-8fe92c6068a9.png)
 
+![Gentrification](https://cloud.githubusercontent.com/assets/9892419/7871223/79923dc8-055c-11e5-9061-4f439b613b7d.jpg)
+
 Final project within the Metis Bootcamp. Given full control over the design, implementation and presentation of the data science project, I worked to identify early signals of gentrification in NYC by looking at people’s voluntary movements through the city. In other words, can you gleam insights into emerging destinations by looking at where people go for fun?
 
 INSIGHT: I can look at MTA turnstile data during BRUNCH (Saturday & Sunday) and NIGHTLIFE (Friday & Saturday) for voluntary travel!!!
 
 ![BRUNCH](https://cloud.githubusercontent.com/assets/9892419/7870918/6d20f108-055a-11e5-91ae-f09a6a6069a8.png)
+
+![NIGHTLIFE](https://cloud.githubusercontent.com/assets/9892419/7871227/7b28d3f4-055c-11e5-9bc5-651696b4a807.jpg)
 
 To accomplish the task, I harvested and combined data (MTA turnstile, Station Geocodes, Property Values, GeoJSONs, Inflation Adjuster) from a variety of sources (e.g., [web scraped urls, wget for page content](http://web.mta.info/developers/turnstile.html "MTA turnstile data"), [Github repositories](https://github.com/chriswhong/nycturnstiles "station geocodes"), [extracted data from D3 viz](http://youarehere.cc/#/maps/by-city/new_york "MIT Media Labs's YouAreHere Project"), [OpenNYC](https://nycopendata.socrata.com/ "Neightborhood Boundaries"), [Wolfram Alpha](https://www.wolframalpha.com/ "Wolfram Alpha")). [All original data uploaded in respective folders].
 
