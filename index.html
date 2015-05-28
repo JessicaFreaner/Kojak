@@ -22,11 +22,21 @@
       <h1>
 <a id="kojak---exploring-nycs-moving-populations" class="anchor" href="#kojak---exploring-nycs-moving-populations" aria-hidden="true"><span class="octicon octicon-link"></span></a>Kojak - Exploring NYC's Moving Populations</h1>
 
+<p><img src="https://cloud.githubusercontent.com/assets/9892419/7870924/741a68ae-055a-11e5-8a93-8fe92c6068a9.png" alt="NYC"></p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/9892419/7871223/79923dc8-055c-11e5-9061-4f439b613b7d.jpg" alt="Gentrification"></p>
+
 <p>Final project within the Metis Bootcamp. Given full control over the design, implementation and presentation of the data science project, I worked to identify early signals of gentrification in NYC by looking at people’s voluntary movements through the city. In other words, can you gleam insights into emerging destinations by looking at where people go for fun?</p>
 
 <p>INSIGHT: I can look at MTA turnstile data during BRUNCH (Saturday &amp; Sunday) and NIGHTLIFE (Friday &amp; Saturday) for voluntary travel!!!</p>
 
-<p>TO accomplish the task, I harvested and combined data (MTA turnstile, Station Geocodes, Property Values, GeoJSONs, Inflation Adjuster) from a variety of sources (e.g., <a href="http://web.mta.info/developers/turnstile.html" title="MTA turnstile data">web scraped urls, wget for page content</a>, <a href="https://github.com/chriswhong/nycturnstiles" title="station geocodes">Github repositories</a>, <a href="http://youarehere.cc/#/maps/by-city/new_york" title="MIT Media Labs's YouAreHere Project">extracted data from D3 viz</a>, <a href="https://nycopendata.socrata.com/" title="Neightborhood Boundaries">OpenNYC</a>, <a href="https://www.wolframalpha.com/" title="Wolfram Alpha">Wolfram Alpha</a>). [All original data uploaded in respective folders].</p>
+<p><img src="https://cloud.githubusercontent.com/assets/9892419/7871338/3fd2c69c-055d-11e5-8fdf-02c511a8f431.jpg" alt="BRUNCH"></p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/9892419/7871227/7b28d3f4-055c-11e5-9bc5-651696b4a807.jpg" alt="NIGHTLIFE"></p>
+
+<p>To accomplish the task, I harvested and combined data (MTA turnstile, Station Geocodes, Property Values, GeoJSONs, Inflation Adjuster) from a variety of sources (e.g., <a href="http://web.mta.info/developers/turnstile.html" title="MTA turnstile data">web scraped urls, wget for page content</a>, <a href="https://github.com/chriswhong/nycturnstiles" title="station geocodes">Github repositories</a>, <a href="http://youarehere.cc/#/maps/by-city/new_york" title="MIT Media Labs's YouAreHere Project">extracted data from D3 viz</a>, <a href="https://nycopendata.socrata.com/" title="Neightborhood Boundaries">OpenNYC</a>, <a href="https://www.wolframalpha.com/" title="Wolfram Alpha">Wolfram Alpha</a>). [All original data uploaded in respective folders].</p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/9892419/7870925/76466948-055a-11e5-945a-d22be3ab2b23.png" alt="Process"></p>
 
 <p>Set up remote MySQL server on <a href="https://www.digitalocean.com/" title="Digital Ocean">Digital Ocean</a> allowing me to perform hours long SQL joins on the cloud while sleeping [SQL setup commands in SQL setup folder]. Mapped subway stations and property values to neighborhood polygons. Adjusted property values for inflation. Performed extensive data cleaning, filtering, and aggregation to create exploratory D3 interactive visualization [d3 folder contains html, images, and final jsons]. </p>
 
