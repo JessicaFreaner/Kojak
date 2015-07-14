@@ -8,7 +8,7 @@ Final project within the Metis Bootcamp. Given full control over the design, imp
 
 INSIGHT: I can look at MTA turnstile data during BRUNCH (Saturday & Sunday) and NIGHTLIFE (Friday & Saturday) for voluntary travel!!!
 
-![BRUNCH](https://cloud.githubusercontent.com/assets/9892419/7870918/6d20f108-055a-11e5-91ae-f09a6a6069a8.png)
+![BRUNCH](https://cloud.githubusercontent.com/assets/9892419/7871338/3fd2c69c-055d-11e5-8fdf-02c511a8f431.jpg)
 
 ![NIGHTLIFE](https://cloud.githubusercontent.com/assets/9892419/7871227/7b28d3f4-055c-11e5-9bc5-651696b4a807.jpg)
 
